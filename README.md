@@ -1,3 +1,24 @@
+# OPGM-Test openpilot fork
+
+This is a fork of OPGM's fork of [openpilot](https://github.com/commaai/openpilot/), an open source driver assistance system. Please
+consult the official documentation for most questions.
+
+This is a really old build! I don't know why I even keep it. Historical reasons? Don't use. Don't use any of what's here, go to the
+official [OPGM Fork](https://github.com/opgm/openpilot/)
+
+OPGM strives to align as closely to the official openpilot as possible, while adding functionality for GM vehicles that
+are officially unsupported. Additionally, OPGM adds some creature comforts and quality of life improvements.
+
+OPGM-Test is just my test version for my own personal use. I suggest you use the OPGM fork, or another fork, just not this one. This
+is for my testing only. 
+
+At the moment, the main differences are that the branches ending in 23 (build23, dev23, staging23) are hardcoded with a fingerprint for
+a Chevrolet Bolt EUV 2022. Why does it end in 23 you ask? Because I have a Bolt EV 2023. Also, the registration nag has been disabled
+for anyone with a clone unit. The last known working (for me) version ends in -bak, i.e. before I update the build branch, I'll back it
+up as build-bak. So if I upgrade to the newest OPGM and it doesn't work, I can easily roll right back to the last known working version.
+
+Now, onto the rest of the copy/paste Github included from OPGM:
+
 ![](https://i.imgur.com/b0ZyIx5.jpg)
 
 Table of Contents
