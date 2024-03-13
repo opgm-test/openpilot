@@ -12,7 +12,7 @@ is for my testing only.
 At the moment, the main differences are that the branches ending in 23 (build23, dev23, staging23) are hardcoded with a fingerprint for
 a Chevrolet Bolt EUV 2022. Why does it end in 23 you ask? Because I have a Bolt EV 2023. Also, the registration nag has been disabled
 for anyone with a clone unit. The last known working (for me) version ends in -bak, i.e. before I update the build branch, I'll back it
-up as build-bak. So if I upgrade to the newest OPGM and it doesn't work, I can easily roll right back to the last knwon working version.
+up as build-bak. So if I upgrade to the newest OPGM and it doesn't work, I can easily roll right back to the last known working version.
 
 Now, onto the rest of the copy/paste Github included from OPGM:
 
